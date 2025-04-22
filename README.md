@@ -1,4 +1,5 @@
 # Customer-subscriptions
+Predicting customer subscriptions through the application of Logistic Regression, Decision Tree, Neural Network algorithms using Python.
 
 ## Overview
 This project aims to predict customer subscriptions to term deposits, a key income source for banks. Using data from a marketing campaign—including demographic, socio-economic, and communication method features—we apply data visualization and machine learning to analyze customer behavior. The goal is to extract insights that enhance targeted marketing strategies, improve engagement, and provide explainable models to support informed decision-making.
