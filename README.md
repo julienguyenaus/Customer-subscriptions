@@ -11,7 +11,7 @@ Efficiently clean and prepare the dataset for analysis, ensuring high data quali
 2. Exploratory Data Analysis (EDA) 
 Perform EDA to visualize relationships, uncover patterns, and extract valuable insights regarding customer behaviours and preferences.
 
-3.Analysis of Machine Learning Models 
+3. Analysis of Machine Learning Models 
 Evaluate and compare three different machine learning algorithms (Logistic Regression, Decision Tree, Neural Network) to identify which model best predicts customer subscriptions.
 
 4. Model Explainability
