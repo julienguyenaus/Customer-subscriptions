@@ -6,16 +6,16 @@ This project aims to predict customer subscriptions to term deposits, a key inco
 
 ## Methodology
 
-1. Data Pre-processing
+1. Data Pre-processing  
 Efficiently clean and prepare the dataset for analysis, ensuring high data quality and reliability.
 
-2. Exploratory Data Analysis (EDA) 
+2. Exploratory Data Analysis (EDA)   
 Perform EDA to visualize relationships, uncover patterns, and extract valuable insights regarding customer behaviours and preferences.
 
-3. Analysis of Machine Learning Models 
+3. Analysis of Machine Learning Models   
 Evaluate and compare three different machine learning algorithms (Logistic Regression, Decision Tree, Neural Network) to identify which model best predicts customer subscriptions.
 
-4. Model Explainability
+4. Model Explainability  
 Using SHAP framework with appropriate plots, analyse the model's predictions and feature contributions, providing clarity on how certain factors influence customer decisions.
 
 ## Conclusion
